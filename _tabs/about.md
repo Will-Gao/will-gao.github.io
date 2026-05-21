@@ -8,13 +8,14 @@ order: 4
 {: .prompt-tip }
 ##  个人介绍
 
-- **姓名**：你的名字  
-- **公司**：你的公司 / 学校  
-- **LinkedIn**：[你的链接](https://linkedin.com/in/你的ID)  
-- **知乎**：[你的知乎](https://zhihu.com/people/你的ID)  
+- **姓名**：Will Gao  
+- **公司**：高手咨询 UpperHand
+- **职位**：Co-Founder
+- **知乎**：[你的知乎](https://www.zhihu.com/people/gao-ju-70))  
 
 ###  公众号
-![公众号二维码](你的图片链接)
+<img width="430" height="430" alt="b24999790410a4e246ac29a427e8e7bb" src="https://github.com/user-attachments/assets/6ac7d4d7-5a2e-4149-88c3-278b04d7bc93" />
+
 
 ###  Contact
-- Email：your@email.com
+- Email：will.gao@upperhand.cn
