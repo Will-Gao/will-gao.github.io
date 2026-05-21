@@ -1,30 +1,22 @@
 ---
 
-title: 我的第一篇博客
+# 我的第一篇博客：如何搭建个人网站
+
 date: 2026-05-21 
+
 categories: [Blog]
+
 tags: [开始, Will Gao]
 ------------------
 
-# 👋 Hello World
+1  创建个人仓库：打开https://github.com/cotes2020/chirpy-starter  ，点击fork，命名为个人网站入口https://github.com/Will-Gao/will-gao.github.io
 
-这是我用 Chirpy 搭建的第一篇博客！
+2  创建github启动流程：settings-pages-source-github actions
 
-如果你能看到这篇文章，说明：
+3  加载入口：index.html文件夹里的url位置加上个人主页地址：https://will-gao.github.io
 
-* GitHub Pages 已经成功 ✅
-* Chirpy 主题正常 ✅
-* 博客系统上线 🎉
+4  启动网站：打开个人网站入口，主页显示--- layout: home # Index page ---
 
-接下来我会持续更新内容 🚀
+5  解决核心问题：找到文件pages-deploy.yml，位置：31行 uses: actions/checkout@v6，改成4 即可
 
-记录复制后如何快速使用
-步骤可以问deepseek or kimi均可
-
-https://github.com/Will-Gao/will-gao.github.io 我fork了一个项目https://github.com/cotes2020/jekyll-theme-chirpy
-
-url改成了我的网址:index.html文件夹里的url位置加上个人主页地址：https://will-gao.github.io
-
-出现了一个核心问题：主页显示--- layout: home # Index page ---，怎么解决，怎么问AI都解决不了，最终还是gpt的方法搞定了
-
-核心问题：找到 地址：pages-deploy.yml，位置：31行 uses: actions/checkout@v6，改成4 即可
+6 静待1-3min，即可看到网站已正常访问，后续修改个人介绍即可
