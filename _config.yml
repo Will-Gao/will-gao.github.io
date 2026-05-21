@@ -26,16 +26,16 @@ description: >- # used by seo meta and the atom feed
 url: "https://will-gao.github.io/"
 
 github:
-  username: Will-Gao # change to your GitHub username
+  username: Will-Gao
 
 twitter:
-  username: WillGao94958530 # change to your Twitter username
+  username: WillGao94958530
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Will Gao
-  email: will.gao@upperhand.cn # change to your email address
+  email: will.gao@upperhand.cn
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
