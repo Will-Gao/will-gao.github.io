@@ -1,0 +1,16 @@
+<footer class="d-flex w-100 justify-content-center">
+  <div class="d-flex justify-content-between align-items-center text-muted">
+    <div class="footer-left">
+      <p class="mb-0">
+        © {{ 'now' | date: '%Y' }} {{ site.social.name }}.
+        {% if site.data.locales[site.lang].copyright.brief %}
+          {{ site.data.locales[site.lang].copyright.brief | replace: ':NAME', site.social.name }}
+        {% endif %}
+      </p>
+    </div>
+    <div class="footer-right ms-3">
+      <!-- 在这里粘贴 Visitor Badge 代码 -->
+      访客数: <img src="https://visitor-badge.laobi.icu/badge?page_id=will-gao.github.io" alt="访客数">
+    </div>
+  </div>
+</footer>
