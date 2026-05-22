@@ -14,7 +14,7 @@ order: 4
   
 ###  公众号
 - 10年为周期的卓越人才访谈计划，致力于研究卓越人才的演变规律：“**卓越人才是如何诞生的？**”
-- <img width="430" height="430" alt="b24999790410a4e246ac29a427e8e7bb" src="https://github.com/user-attachments/assets/6ac7d4d7-5a2e-4149-88c3-278b04d7bc93" />
+ <img width="430" height="430" alt="b24999790410a4e246ac29a427e8e7bb" src="https://github.com/user-attachments/assets/6ac7d4d7-5a2e-4149-88c3-278b04d7bc93" />
 
 
 ###  Contact
